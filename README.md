@@ -1,3 +1,7 @@
+<div style="display: inline_block"><br>
+  <img align="right" alt="Fabio-Linux" height="120" width="140" src="https://svgarchive.com/wp-content/uploads/devops.svg">
+</div>
+
 ## Olá, seja bem-vindo(a) ao meu perfil!
 
 <div align="center">
@@ -18,7 +22,7 @@
   <img align="center" alt="Fabio-AWS" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
   <img align="center" alt="Fabio-Terraform" height="50" width="60" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
 </div>
-
+  
 ##
 
 <h3>Entre em contato:</h3>
