@@ -20,7 +20,6 @@
   <img align="center" alt="Fabio-Grafana" height="50" width="60" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
   <img align="center" alt="Fabio-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fabio-AWS" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
-  <img align="center" alt="Fabio-Terraform" height="50" width="60" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg">
 </div>
   
 ##
