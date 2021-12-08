@@ -3,10 +3,10 @@
 </div>
 
 ## Olá, seja bem-vindo(a) ao meu perfil!
-
-<div align="center">
+ <div align="center">
   <a href="https://github.com/WiFabio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wifabio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wifabio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiFabio&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ## 
