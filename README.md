@@ -1,7 +1,3 @@
-<div style="display: inline_block"><br>
-  <img align="right" alt="Fabio-Linux" height="120" width="140" src="https://svgarchive.com/wp-content/uploads/devops.svg">
-</div>
-
 ## Olá, seja bem-vindo(a) ao meu perfil!
  <div align="center">
   <a href="https://github.com/WiFabio">
